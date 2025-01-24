@@ -1,6 +1,6 @@
 package encapsulation;
 
-// 클래스 : 객체의 속성과 기능을 정의한 문서(설계도)
+// 클래스 : 객체의 속성과 기능을 정의한 문서(설계도)[객체를 정의]
 public class Person {
 	
 	/* private 접근 제어자를 이용해 필드 직접 접근 제한 */
