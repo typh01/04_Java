@@ -2,6 +2,7 @@ package section02.dto;
 
 /* 추상 클래스
  * 1) 추상 메서드 (abstract method)를 포함한 클래스
+ * 
  * 2) 객체(instance)로 만들면 안되는 클래스
  * 
  * - abstract 예약어 작성
