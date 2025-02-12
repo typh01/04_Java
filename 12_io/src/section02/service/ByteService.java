@@ -248,7 +248,7 @@ public class ByteService {
 			// 파일 입력용 바이트 기반 스트림 생성
 			fis = new FileInputStream("io_test/byte/노래가사.txt");
 			
-			// byte[] readAllBytes()
+			//byte[] readAllBytes()
 			// - 연결된 파일의 내용을 모두 byte로 변환하여 읽어오기
 			// - byte[] 형태로 반환됨
 			byte[] bytes = fis.readAllBytes();
@@ -310,7 +310,7 @@ public class ByteService {
 	}
 	
 	//----------------------------------------------------------
-	/** [파이리 복사]
+	/** [파일 복사]
 	 * <pre>
 	 * - 복사할 파일의 경로를 입력 받아
 	 * 	 같은 경로에 복사된 파일을 생성
